@@ -7,5 +7,5 @@ MS in Software Engineering from Arizona State (Dec 2025). Research at the CoRAL 
 
 Most of my work sits at the intersection of agent orchestration, retrieval, and evaluation — the parts of an AI system that decide whether it works outside a demo.
 
-Open to AI engineering roles.
+Open to AI engineering and SDE roles.
 [Email](mailto:ashishthanga@icloud.com) · [LinkedIn](https://www.linkedin.com/in/ashish-thanga-2252b416b/)
